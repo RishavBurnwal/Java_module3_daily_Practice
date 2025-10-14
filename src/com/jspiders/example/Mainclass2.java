@@ -1,9 +1,9 @@
 package com.jspiders.example;
 class Student1{
-	String name = "Rama";
+	String name = "Rishav";
 }
 class Student2{
-	String name = "Rama";
+	String name = "Rishav";
 	@Override
 	public String toString() {
 		return "Student Name: " + name;	
