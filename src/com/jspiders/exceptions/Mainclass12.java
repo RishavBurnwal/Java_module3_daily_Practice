@@ -23,7 +23,7 @@ public class Mainclass12 {
 			Theatre.buyTickets();
 			Theatre.buyTickets();
 			Theatre.buyTickets(); //at this point means 4th time HousefullException happens
-			Theatre.buyTickets(); //after 4th call no 
+			Theatre.buyTickets(); //after 4th call, nothing will work
 			Theatre.buyTickets();
 		}
 		catch(HousefullException e) {
