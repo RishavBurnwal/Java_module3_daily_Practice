@@ -22,9 +22,7 @@ public class Mainclass12 {
 			Theatre.buyTickets();
 			Theatre.buyTickets();
 			Theatre.buyTickets();
-			Theatre.buyTickets(); //at this point means 4th time HousefullException happens
-			Theatre.buyTickets(); //after 4th call, nothing will work
-			Theatre.buyTickets();
+			Theatre.buyTickets(); //at this point means 4th time HousefullException happens //after 4th call, nothing will work
 		}
 		catch(HousefullException e) {
 			System.out.println(e.getMessage());
