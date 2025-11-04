@@ -9,6 +9,5 @@ public class Mainclass6 {
 		t2.setName("kryptonite");
 		t1.start();
 		t2.start();
-		
 	}
 }
