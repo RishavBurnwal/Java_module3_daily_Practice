@@ -2,7 +2,6 @@ package com.jspiders.filehandling;
 
 import java.io.FileInputStream;
 import java.io.ObjectInputStream;
-import com.jspiders.example.Contact;
 import java.io.IOException;
 
 public class Mainclass16 {
@@ -17,3 +16,5 @@ public class Mainclass16 {
 	}
 
 }
+
+
