@@ -2,7 +2,7 @@ package com.jspiders.ArrayList;
 
 import java.util.ArrayList;
 
-public class Student implements Comparable{
+public class Student {
 	int id;
 	String name;
 	int age;
