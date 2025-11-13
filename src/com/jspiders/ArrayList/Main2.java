@@ -7,7 +7,7 @@ public class Main2 {
 		Employee e1 = new Employee(1, "Rishav", 23, "Developer");
 		Employee e2 = new Employee(2, "Rohit", 25, "Tester");
 		Employee e3 = new Employee(1, "Sayan", 23, "Cloud engineer");
-		Employee e4 = new Employee(1, "Raj", 23, "Developer");
+		Employee e4 = new Employee(1, "Raj", 23, "Analyst");
 		
 		ArrayList<Employee> al = new ArrayList();
 		al.add(e1);
