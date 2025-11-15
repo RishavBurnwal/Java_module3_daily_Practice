@@ -14,7 +14,7 @@ public class Main2 {
 		al.add(e2);
 		System.out.println(al);
 		
-		for(Object o : al) {  // for each loop
+		for(Object o : al) {  // foreach loop
 			System.out.println(o);
 		}
 	}
